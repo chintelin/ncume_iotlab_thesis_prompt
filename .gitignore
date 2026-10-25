@@ -1,0 +1,12 @@
+# Local student material and release staging
+/test/
+/dist/
+/.obsidian/
+
+# Local environment and temporary files
+.env
+.env.*
+__pycache__/
+*.tmp
+.DS_Store
+Thumbs.db
